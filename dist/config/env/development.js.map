@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/config/env/development.js"],"names":["devConfig","port","database","secret"],"mappings":";;;;;AAAO,IAAMA,gCAAY;AACrBC,UAAM,IADe;AAErBC,cAAW,cAFU;AAGrBC,YAAS;AAHY,CAAlB","file":"development.js","sourcesContent":["export const devConfig = {\r\n    port :8080,\r\n    database : 'appointments',\r\n    secret : 'ADASTFDGSDHU'\r\n}"]}
